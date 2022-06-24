@@ -1,7 +1,6 @@
 import Link from 'next/link';
 
-import Toolbar from '@material-ui/core/Toolbar';
-import Grid from '@material-ui/core/Grid';
+import { Toolbar, Grid } from '@mui/material';
 
 import { styleToolbar } from './SharedStyles';
 
